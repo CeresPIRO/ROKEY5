@@ -1,5 +1,3 @@
 print("hello git!!!!!")
-print("hi!!!!!")
-print("what?")
-
-print("HAHAHA")
+print("hi")
+print("@@@added from github@@@")
